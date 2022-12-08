@@ -8,3 +8,4 @@ myImages.forEach(element => {
         element.target.src = `images/${element.target.id}.jpg`
     })
 });
+
